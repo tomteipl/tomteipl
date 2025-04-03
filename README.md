@@ -8,7 +8,7 @@ My *newest* project that i work on is [Ollama GUI Chat](https://github.com/tomte
 Its super light app that lets you talk with your LLMs thru **modern** and **compact** GUI.
 Check out the repo to see the features ✨
 
-Currently im learning `Python` which i love so far. I love learning new things and im not scared of them!
+Currently im learning `Python` which i love so far.
 
 If you find anything worth your *click*, leave a ⭐!
 
